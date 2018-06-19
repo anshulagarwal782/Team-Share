@@ -1,0 +1,63 @@
+.nameStyle {
+  font-size: 30px;
+}
+.designationStyle{
+  font-size: 15px;
+  color : #a1a1a1;
+}
+.profile-image {
+  border-radius: 50%;
+  margin: 10px 10px;
+  width : 130px;
+  background-color: #a1a1a1;
+}
+.user-details-header {
+  background-color:#fff;
+  box-shadow  : 3px 3px 10px #ccc;
+}
+
+.socialIcon .x-icon-el:before{
+  font-size: 30px;
+}
+.socialIcon .x-icon-el{
+  width : 30px;
+  height : 30px;
+}
+.socialMobileIcon .x-icon-el:before{
+  font-size: 30px;
+}
+.socialMobileIcon .x-icon-el{
+  width : 20px;
+  height : 20px;
+  color : white;
+}
+.socialMobileIcon {
+  background: skyblue;
+  margin : 5px 10px;
+}
+.mails {
+  background: skyblue;
+  margin : 0 10px;
+}
+.mails .x-icon-el:before{
+  font-size: 30px;
+}
+.mails .x-icon-el{
+  width : 30px;
+  height : 30px;
+}
+.mails .x-icon-el{
+  color : white;
+}
+.chat {
+  background: skyblue;
+  margin : 0 10px;
+}
+.chat .x-icon-el:before{
+  font-size: 30px;
+}
+.chat .x-icon-el{
+  width : 30px;
+  height : 30px;
+  color : white;
+}

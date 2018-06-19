@@ -1,0 +1,35 @@
+.chat-area-field{
+  shape-outside: circle(50%);
+}
+.incoming-message-color .x-panelheader{
+  background-color: #1e425d;
+}
+.message-seen-color .x-panelheader{
+  background-color: #2196f3;
+}
+
+
+.tri-right.left-top:after{
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+	right: auto;
+  	top: 14px;
+	bottom: auto;
+	border: 17px solid;
+	border-color: white transparent transparent transparent;
+}
+
+.tri-right.right-top:after {
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: auto;
+    right: 0px;
+    top: 14px;
+    bottom: auto;
+    border: 17px solid;
+    border-color: #ddf8c5 transparent transparent transparent;
+}

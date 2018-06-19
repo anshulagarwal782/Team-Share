@@ -1,0 +1,18 @@
+.inbox-image {
+ border-radius: 50%;
+}
+.subject {
+ color : #717171;
+ white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.date-time {
+   color : #717171;
+   margin-top : 10px;
+   margin-right: 10px;
+}
+.border{
+ padding: 0 30px;
+ border-bottom: solid 1px #DEDEDE;
+}

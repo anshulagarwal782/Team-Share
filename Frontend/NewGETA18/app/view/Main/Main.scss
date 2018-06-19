@@ -1,0 +1,59 @@
+*{
+  font-family: 'Roboto';
+}
+.header {
+  position: relative;
+  background: #2196f3;
+  height: 50px;
+}
+.header .x-title{
+  color : white;
+}
+.titlebarIcon .x-icon-el{
+  color : white;
+  width : 30px;
+  height: 30px;
+}
+.titlebarIcon .x-icon-el:before{
+  font-size: 30px;
+}
+.titlebar-image {
+  border-radius: 50%;
+  cursor : pointer;
+}
+
+.counter{
+  font-size: 80%;
+  color : #616161;
+}
+.overlay{
+  position: absolute;
+  z-index : 200;
+  box-shadow: 5px 5px 5px #ccc;
+}
+.fixed{
+  position: relative;
+}
+.toolbar-left-button .x-icon-el:before{
+  font-size: 20px;
+}
+.toolbar-left-button .x-icon-el{
+  width : 20px;
+  height : 20px;
+}
+.anime{
+  transition: 0.4s;
+}
+.add-task {
+  color: white;
+}
+.add-task .x-icon-el:before{
+  font-size: 30px;
+}
+.add-task .x-icon-el{
+  width : 30px;
+  height : 30px;
+}
+.add-task .x-icon-el{
+  color : white;
+}
